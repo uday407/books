@@ -1,0 +1,73 @@
+[
+    {
+      "BookID": 1,
+      "BookName": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "Publisher": "J.B. Lippincott & Co.",
+      "PublishedDate": "1960-07-11"
+    },
+    {
+      "BookID": 2,
+      "BookName": "1984",
+      "Author": "George Orwell",
+      "Publisher": "Secker & Warburg",
+      "PublishedDate": "1949-06-08"
+    },
+    {
+      "BookID": 3,
+      "BookName": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Publisher": "Charles Scribner's Sons",
+      "PublishedDate": "1925-04-10"
+    },
+    {
+      "BookID": 4,
+      "BookName": "One Hundred Years of Solitude",
+      "Author": "Gabriel Garcia Marquez",
+      "Publisher": "Harper & Row",
+      "PublishedDate": "1970-06-05"
+    },
+    {
+      "BookID": 5,
+      "BookName": "The Catcher in the Rye",
+      "Author": "J.D. Salinger",
+      "Publisher": "Little, Brown and Company",
+      "PublishedDate": "1951-07-16"
+    },
+    {
+      "BookID": 6,
+      "BookName": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Publisher": "T. Egerton, Whitehall",
+      "PublishedDate": "1813-01-28"
+    },
+    {
+      "BookID": 7,
+      "BookName": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Publisher": "George Allen & Unwin",
+      "PublishedDate": "1937-09-21"
+    },
+    {
+      "BookID": 8,
+      "BookName": "Moby-Dick",
+      "Author": "Herman Melville",
+      "Publisher": "Harper & Brothers",
+      "PublishedDate": "1851-10-18"
+    },
+    {
+      "BookID": 9,
+      "BookName": "War and Peace",
+      "Author": "Leo Tolstoy",
+      "Publisher": "The Russian Messenger",
+      "PublishedDate": "1869"
+    },
+    {
+      "BookID": 10,
+      "BookName": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "Publisher": "HarperOne",
+      "PublishedDate": "1988-05-01"
+    }
+  ]
+  
